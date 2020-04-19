@@ -1,0 +1,9 @@
+Opção de escolher o tipo da moeda com a cotação atualizada
+
+Sem barra de rolagem
+
+Input personalizado com opção de digitação ou utilização dos switch
+
+calculo:
+
+valorHora = (valorProjeto / (diasEfetivos * 4 * horasDiarias)) + ((diasFerias * diasEfetivos * horasDiárias))
