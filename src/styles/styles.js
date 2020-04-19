@@ -9,6 +9,11 @@ export const NavBar = styled.div`
   box-shadow: 1px 1px 30px 0px rgba(0, 0, 0, 0.4);
   background: #8b73ab;
 
+  a {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+  }
   .title-name {
     display: flex;
     flex-direction: row;

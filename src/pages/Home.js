@@ -65,15 +65,16 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <img src={he4rt} alt="he4rt-logo" width="46px" />
+
+            <div className="logo-name">
+              <p>He4rt</p>
+              <span>devs</span>
+            </div>
           </a>
-          <div className="logo-name">
-            <p>He4rt</p>
-            <span>devs</span>
-          </div>
         </div>
         <div className="tite-social">
           <a
-            href="https://github.com/DoBigode"
+            href="https://github.com/muril0-0"
             target="_blank"
             rel="noopener noreferrer"
           >
