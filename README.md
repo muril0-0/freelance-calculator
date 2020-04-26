@@ -30,7 +30,7 @@ __EN__
 
 
 _Make download or clone this repository._
-`git clone https://github.com/muril0-0/pomodoro-reactjs`
+`git clone https://github.com/muril0-0/freelance-calculator`
 
 _Go to repository folder:_
 `cd "./freelance-calculator/frontend"`
