@@ -1,8 +1,8 @@
 # 📟 Calculadora Freelance / Freelance Calculator 
 
-Este projeto foi criado em Javascript através do framework ReactJs, com o objetivo de se criar uma calculadora para projetos freelance.
+Projeto criado em Javascript através do framework ReactJs para desafio da [He4rt Devs](https://heartdevs.com/), com o objetivo de se criar uma calculadora para projetos freelance.
 
-_This project was made in Javascript through React Js framework, with goal of create a calculator for freelance projects._
+_Project was made in Javascript through React Js framework for [He4rt Devs](https://heartdevs.com/) challenge, with goal of create a calculator for freelance projects._
 
 
 ## 🚩 Começando / Getting Started
@@ -60,6 +60,8 @@ _Open [http://localhost:3000](http://localhost:3000) to view it in the browser._
 
 
 ## 📚 Mais Informações / Learn More
+
+__VISITE O PERFIL DA HE4RT DEVS EM https://github.com/he4rt__
 
 Você pode ler mais sobre o ReactJs em (https://facebook.github.io/create-react-app/docs/getting-started).
 
